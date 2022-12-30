@@ -1,0 +1,10 @@
+setup.py
+sdserver/api.py
+sdserver/cmds.py
+sdserver/server.py
+sdserver.egg-info/PKG-INFO
+sdserver.egg-info/SOURCES.txt
+sdserver.egg-info/dependency_links.txt
+sdserver.egg-info/entry_points.txt
+sdserver.egg-info/requires.txt
+sdserver.egg-info/top_level.txt
